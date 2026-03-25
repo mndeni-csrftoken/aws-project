@@ -1,5 +1,5 @@
 Overview
-This project demonstrates a complete serverless image‑processing pipeline using AWS.
+This project "Serverless.py" demonstrates a complete serverless image‑processing pipeline using AWS.
 When a user uploads an image to an S3 bucket, a Lambda function automatically:
 - Downloads the image
 - Generates a 200×200 thumbnail
